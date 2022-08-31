@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.faendir.rhino:rhino-android:1.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ffcc9777ecb96b95e9cbb4787e992877/transformed/rhino-android-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ffcc9777ecb96b95e9cbb4787e992877/transformed/rhino-android-1.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ffcc9777ecb96b95e9cbb4787e992877/transformed/rhino-android-1.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.faendir.rhino/rhino-android/1.6.0/24c45f70e4cf670dc4f730a3751d376419e97cd3/rhino-android-1.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.faendir.rhino/rhino-android/1.6.0/6095f61cea218a7049a4c61b4e5ce69755fc1c73/rhino-android-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
